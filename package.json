@@ -1,0 +1,1 @@
+{\n  "name": "your-project-name",\n  "version": "1.0.0",\n  "scripts": {\n    "dev": "vite",\n    "build": "vite build",\n    "serve": "vite preview"\n  },\n  "dependencies": {\n    "vite": "latest",\n    // add other required dependencies here\n  },\n  "devDependencies": {\n    "autoprefixer": "latest",\n    "tailwindcss": "latest",\n    "typescript": "latest"\n  }\n}
